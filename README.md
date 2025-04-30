@@ -150,7 +150,7 @@ int main() {
 ## OUTPUT
 
 
-![alt text](image-3.png) 
+![alt text](<Screenshot 2025-04-30 103527.png>)
  
 
  ## RESULT
